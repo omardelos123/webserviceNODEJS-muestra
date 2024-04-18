@@ -1,0 +1,12 @@
+para iniciar el proyecto 
+npm init --yes
+
+INSTALAR DEPENDENCIAS NECESARIAS
+npm install express mysql
+
+PARA REFRESCAR CUANDO SE GUARDA LOS CAMBIOS 
+npm install nodemon -D
+ LA 'D' mayuscula significa que es una dependencia de desarrollo y no de produccion.
+
+para correr el proyecto
+npm run dev
